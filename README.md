@@ -1,4 +1,4 @@
-### Technical Highlights
+## Technical Highlights
 	## Custom WinForms UserControl
 A fully reusable station control that can be 
 dropped onto any form and configured directly 
